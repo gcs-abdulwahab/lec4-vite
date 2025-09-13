@@ -2,7 +2,7 @@ function App() {
  
 
   return (
-         <h1 className="text-3xl font-bold text-red-500"> First  Vite proj </h1>
+         <h1 className="text-3xl font-bold text-red-500"> First  Vite project Updated </h1>
 
   )
 }
